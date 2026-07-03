@@ -1,2 +1,3 @@
-# pff
-Open-core model-driven industrial automation engineering platform.
+# PFF
+
+Process Factory Framework
